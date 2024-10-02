@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuanMaPainenao
-- 🌱 I’m currently learning Python, ROS 2
+- 🌱 I’m currently learning Python, ROS 2 and Computer Vision
 - :book: I'm in the third year of Computer Engineering at UNC, located in Córdoba, Argentina
 
 <!---
